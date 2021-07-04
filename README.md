@@ -1,7 +1,7 @@
 # What is it?
 It's a Gatsby theme for [@code-hike/scrollycoding](https://www.npmjs.com/package/@code-hike/scrollycoding).
 
-The theme is working but not release yet.
+The theme is working but not released yet.
 
 # Todos
 - [ ] Check installation issue with smooshpack / react-smooshpack --> react-smooshpack beta version is the problem (where is it used?) alpha-31 required
