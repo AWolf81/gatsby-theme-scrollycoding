@@ -1,0 +1,11 @@
+{
+    "name": "@awolf81/gatsby-theme-scrollycoding",
+    "version": "0.1.0",
+    "main": "index.js",
+    "author": "Alexander Wolf <awolf2904@gmail.com> (@awolf81)",
+    "license": "MIT",
+    "peerDependencies": {
+      "gatsby": "^3.3.0",
+      "@code-hike/scrollycoding": "^0.3.0"
+    }
+  }
